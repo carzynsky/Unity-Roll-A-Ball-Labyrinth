@@ -1,6 +1,7 @@
 # Roll a Ball Labyrinth
 
 Simple 3D labirynth game, made in Unity, for Game Design and programming classes at Wroclaw University of Science.
+Player controls silver ball with 'wasd' or arrows on a keyboard.
 
 ## The goal
 Reach all green cubes in the shortest possible time. Information about number of collected points and game time is included 
